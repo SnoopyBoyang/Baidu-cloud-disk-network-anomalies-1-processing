@@ -14,19 +14,18 @@
    
    
    <center>![baidu_fig1.png](baidu_fig1.png)</center>
+   
    <center>图1</center>
    
    在弹出的对话框中选择“高级”，其中**SSL 3.0**和**TLS 1.0**必须勾选，**SSL 2.0**不要勾选，如下图2所示。
    
    
    <center>![baidu_fig2.png](baidu_fig2.png)</center>
+   
    <center>图2</center>
-若依然无法登录，请重新安装IE浏览器，并按照以上链接操作指示进行设置； 
+   
+若依然无法登录，请重新安装IE浏览器，并按照以上操作指示进行设置； 
 
-　　②如可以打开，请将以下链接
-
-<center>http://pan.baidu.com/s/1ge4QfLL</center>
-
-内的两个文件存放至百度网盘的安装目录下，并重新启动百度网盘。此时便可以正常登录了。
+　　②如可以打开，请将仓库里的**cacert.pem**和**logonbd.dll**两个文件存放至百度网盘的安装目录下，并重新启动百度网盘。此时便可以正常登录了。
 
 **P.S.该补丁是否能解决其它Windows系统的登陆问题，暂时不是很清楚。**
