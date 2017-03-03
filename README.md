@@ -11,8 +11,8 @@
 　　①如无法打开，请按照以下描述进行操作：
   
 　　　
-  　在IE浏览器下单击“工具” ---> “Internet选项”，如下图1所示。
-   
+　　在IE浏览器下单击“工具” ---> “Internet选项”，如下图1所示。
+  
    
    <center>![baidu_fig1.png](baidu_fig1.png)</center>
    
