@@ -15,14 +15,14 @@
    
    <center>![baidu_fig1.png](baidu_fig1.png)</center>
    
-   　　　　　　　　　<center>图1</center>
+   　　　　　　　　　<center>　　　　图1</center>
    
    在弹出的对话框中选择“高级”，其中**SSL 3.0**和**TLS 1.0**必须勾选，**SSL 2.0**不要勾选，如下图2所示。
    
    
    <center>![baidu_fig2.png](baidu_fig2.png)</center>
    
-   　　　　　　　　　<center>图2</center>
+   　　　　　　　　　<center>　　　　图2</center>
    
 若依然无法登录，请重新安装IE浏览器，并按照以上操作指示进行设置； 
 
